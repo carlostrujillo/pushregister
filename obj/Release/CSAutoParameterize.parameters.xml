@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="db-Web.config Connection String" description="db Connection String used in web.config by the application to access the database." defaultValue="Server=tcp:measuringpoint.database.windows.net,1433;Initial Catalog=measuringpoint;Persist Security Info=False;User ID=carlos;Password=Welcome01!;MultipleActiveResultSets=False;Encrypt=True;TrustServerCertificate=False;Connection Timeout=30;" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\carlos\.trujillo\\Documents\\Rio\ Tinto\\Rio\ Tinto\ -\ Mobility\ Reference\ Architecture\\Code\\Rio\ Tinto\ -\ Mobile\ App\\PushApi\.Register\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='db']/@connectionString" />
+  </parameter>
+</parameters>

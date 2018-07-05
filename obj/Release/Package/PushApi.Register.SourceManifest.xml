@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<sitemanifest>
+  <IisApp path="C:\Users\carlos.trujillo\Documents\Rio Tinto\Rio Tinto - Mobility Reference Architecture\Code\Rio Tinto - Mobile App\PushApi.Register\obj\Release\Package\PackageTmp" />
+  <setAcl path="C:\Users\carlos.trujillo\Documents\Rio Tinto\Rio Tinto - Mobility Reference Architecture\Code\Rio Tinto - Mobile App\PushApi.Register\obj\Release\Package\PackageTmp" setAclResourceType="Directory" />
+  <setAcl path="C:\Users\carlos.trujillo\Documents\Rio Tinto\Rio Tinto - Mobility Reference Architecture\Code\Rio Tinto - Mobile App\PushApi.Register\obj\Release\Package\PackageTmp" setAclUser="anonymousAuthenticationUser" setAclResourceType="Directory" />
+</sitemanifest>
